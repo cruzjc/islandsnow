@@ -19,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+            <state relative-caret-position="486">
+              <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -29,8 +29,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -45,6 +45,11 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;!DOCTYPE html&gt; &lt;html lang=&quot;en&quot;&gt; &lt;head&gt;   &lt;meta charset=&quot;UTF-8&quot;&gt;   &lt;title&gt;&lt;/title&gt;    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css&quot;&gt;   &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;   &lt;script type=&quot;text/javascript&quot; src=&quot;https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js&quot;&gt;&lt;/script&gt;   &lt;script type=&quot;text/javascript&quot;           src=&quot;https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js&quot;&gt;&lt;/script&gt;   &lt;/head&gt; &lt;body&gt;   &lt;div class=&quot;ui borderless menu&quot; id=&quot;topnavbar&quot;&gt;   &lt;div class=&quot;ui container&quot;&gt;     &lt;a class=&quot;fitted item&quot;&gt;&lt;i class=&quot;facebook icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;a class=&quot;fitted item&quot;&gt;&lt;i class=&quot;twitter icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;a class=&quot;fitted item&quot;&gt;&lt;i class=&quot;pinterest icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;a class=&quot;fitted item&quot;&gt;&lt;i class=&quot;instagram icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;a class=&quot;fitted right item&quot;&gt;&lt;i class=&quot;home icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;a class=&quot;fitted item&quot;&gt;&lt;i class=&quot;search icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;     &lt;a class=&quot;fitted item&quot;&gt;&lt;i class=&quot;user icon&quot;&gt;&lt;/i&gt;&lt;/a&gt;       &lt;div class=&quot;ui dropdown fitted item&quot;&gt;       &lt;div class=&quot;text&quot;&gt;My cart&lt;i class=&quot;cart icon&quot;&gt;&lt;/i&gt;0&lt;/div&gt;       &lt;div class=&quot;menu&quot;&gt;         &lt;div class=&quot;item&quot;&gt;Cart is empty&lt;/div&gt;       &lt;/div&gt;     &lt;/div&gt;    &lt;/div&gt; &lt;/div&gt;  &lt;img class=&quot;ui centered image&quot; src=&quot;http://cdn.shopify.com/s/files/1/1035/5187/t/5/assets/logo.png?3009936207577207322&quot;&gt;  &lt;div class=&quot;ui borderless menu&quot; id=&quot;middlenavbar&quot;&gt;   &lt;div class=&quot;ui centered grid container&quot;&gt;      &lt;div class=&quot;ui dropdown item&quot;&gt;       &lt;div class=&quot;text&quot;&gt;Men&lt;/div&gt;       &lt;i class=&quot;dropdown icon&quot;&gt;&lt;/i&gt;       &lt;div class=&quot;menu&quot;&gt;         &lt;div class=&quot;item&quot;&gt;Tank tops&lt;/div&gt;       &lt;/div&gt;     &lt;/div&gt;      &lt;div class=&quot;ui dropdown item&quot;&gt;       &lt;div class=&quot;text&quot;&gt;Women&lt;/div&gt;       &lt;i class=&quot;dropdown icon&quot;&gt;&lt;/i&gt;       &lt;div class=&quot;menu&quot;&gt;         &lt;div class=&quot;item&quot;&gt;Tank tops&lt;/div&gt;       &lt;/div&gt;     &lt;/div&gt;      &lt;div class=&quot;ui dropdown item&quot;&gt;       &lt;div class=&quot;text&quot;&gt;Kids&lt;/div&gt;       &lt;i class=&quot;dropdown icon&quot;&gt;&lt;/i&gt;       &lt;div class=&quot;menu&quot;&gt;         &lt;div class=&quot;item&quot;&gt;Tank tops&lt;/div&gt;       &lt;/div&gt;     &lt;/div&gt;      &lt;div class=&quot;ui dropdown item&quot;&gt;       &lt;div class=&quot;text&quot;&gt;Brands&lt;/div&gt;&lt;i class=&quot;dropdown icon&quot;&gt;&lt;/i&gt;       &lt;div class=&quot;menu&quot;&gt;         &lt;div class=&quot;item&quot;&gt;Tank tops&lt;/div&gt;       &lt;/div&gt;     &lt;/div&gt;      &lt;a class=&quot;item&quot;&gt;Search&lt;/a&gt;    &lt;/div&gt; &lt;/div&gt;  &lt;img class=&quot;ui fluid image&quot; src=&quot;http://cdn.shopify.com/s/files/1/1035/5187/t/5/assets/slide1.jpg?3009936207577207322&quot;&gt;     &lt;div class=&quot;ui three column grid container&quot; id=&quot;footer&quot;&gt;    &lt;/div&gt;    &lt;script&gt;   $('.ui.dropdown')       .dropdown()   ; &lt;/script&gt;  &lt;/body&gt; &lt;/html&gt;</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,8 +69,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="750" />
-    <option name="y" value="96" />
+    <option name="x" value="906" />
+    <option name="y" value="103" />
     <option name="width" value="974" />
     <option name="height" value="922" />
   </component>
@@ -84,9 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -101,6 +103,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +253,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="750" y="96" width="974" height="922" extended-state="0" />
+    <frame x="906" y="103" width="974" height="922" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -291,14 +296,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
@@ -307,8 +304,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="45" column="35" lean-forward="false" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="91" column="22" lean-forward="true" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
           <folding />
         </state>
       </provider>
